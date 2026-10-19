@@ -1,0 +1,1 @@
+export const print_Beta = (beta: string) => { console.log(`omega - ${beta}`)}
